@@ -1,7 +1,7 @@
 - [x] Boilerplate
 - [x] Sky
 - [x] Textures and Images
-- [] Ground
+- [x] Ground
 - [] Player
 - [] First Person View
 - [] Gravity
