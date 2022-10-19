@@ -7,8 +7,9 @@
 - [x] First Person View
 - [x] Gravity
 - [x] Movement
-- [] State Management
-- [] Cubes
+- [x] State Management
+- [x] Cubes
+- [] Adding Cubes
 - [] Cube Type Selector
 - [] Save World in LocalStorage
 - [] Build A House
