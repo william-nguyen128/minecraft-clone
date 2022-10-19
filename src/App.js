@@ -20,7 +20,7 @@ function App() {
           <Ground />
         </Physics>
       </Canvas>
-      <div className="absolute centered cursor"></div>
+      <div className="absolute centered cursor">+</div>
     </>
   );
 }
