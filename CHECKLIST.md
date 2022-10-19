@@ -9,7 +9,8 @@
 - [x] Movement
 - [x] State Management
 - [x] Cubes
-- [] Adding Cubes
+- [x] Adding Cubes
+- [x] Removing Cubes
 - [] Cube Type Selector
 - [] Save World in LocalStorage
 - [] Build A House
